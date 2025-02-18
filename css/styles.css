@@ -1,0 +1,164 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  
+  * {
+    font-size:24px;
+  }
+  body {
+    margin: 0;
+    background-color: #dbfbff;
+  }
+ .header-main {
+        max-height: 750px;
+
+    } 
+
+    .text-header {
+        text-align: left;
+        padding-left: 20px;
+        color: white;
+        position: relative;
+        bottom: 500px;
+        max-width: 100%;
+    }
+    .text-header-title {
+        font-size: 42px;
+    }
+    .text-header-desc{
+        font-size: 20px;
+    }
+  section {
+    margin-top: -32px;
+  }
+  .text-bio {
+    background-color: rgb(28 50 65);
+    color:white
+   
+  }
+  a:link{
+    color:white;
+    text-decoration: none;
+  }
+  a:visited{
+    color:white;
+  }
+  a:hover{
+    color: gray;
+    text-decoration: bold;
+    font-size: 1.1rem;
+  }
+  a:active{
+    color:black;
+  }
+
+  .text-nac, .text-call, .text-dead {
+    padding: 20px;
+    font-weight: 200;
+  }
+  .text-crono {
+    background-color: rgb(91 116 136);
+    color: white
+  
+  }
+  .text-msg {
+    background-color: gray;
+    color: white
+  }
+    
+  article {
+    margin: 0px 100px;
+    padding: 20px;
+  }
+  .list-crono {
+    margin: 0px 100px;
+    padding: 20px 20px 60px;
+    list-style-type: none;
+    text-align: justify;
+  }
+  
+  .text-right {
+    padding-left: 600px;
+    padding-bottom: 20px;
+  }
+  .text-left {
+    padding-right: 630px;
+    padding-bottom: 20px;
+  }
+
+  .text-count {
+    border-style: solid;
+    border-color: #fff;
+    border-radius: 20px;
+    background-color: #fff;
+    padding: 2px 10px;
+    position: relative;
+    right: 80px;
+    top: 60px;
+    margin-left: 600px;
+    color: black;
+  }
+
+  /* h1 {
+    text-align:center;
+    font-size:42px;
+  } */
+  h2 {
+    text-align:center;
+    font-size:38px;
+    padding: 30px;
+    
+  }
+  h3 {
+    font-size:32px;
+  }
+  a:link{
+    color:white;
+    text-decoration: none;
+  }
+  a:visited{
+    color:white;
+  }
+  a:hover{
+    color: gray;
+    text-decoration: bold;
+    font-size: 1.1rem;
+  }
+  a:active{
+    color:black;
+  }
+  .text-desc{
+    text-align: justify;
+  }
+  .msg {
+    padding: 20px 20px 60px;
+    margin: 0px 100px;
+  }
+
+  .link-black:hover {
+    color: black;
+    text-decoration: bold;
+    font-size: 1.1rem;
+  }
+
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+  }
+
+  .text-author {
+    font-size: 1.1rem;
+    font-style: italic;
+  }
+  .text-author:hover {
+    color: gray;
+  }
+
+  .text-contact {
+    padding: 20px;
+    font-style: italic;
+  }
